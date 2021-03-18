@@ -9,7 +9,7 @@ This "solution" is combined of two elements:
 #Install
 
 - Download and move the script (Outlook-MoveSelectedToSpecificFolder.js) to a folder you like.
-- Download and install my Sample [Keyboard Maestro Macro](Sample-File-to-Folder.kmmacros) and adjust the Folder name & script path as the comments in the macro instruct you. 
+- Download and install my Sample Keyboard Maestro Macro ([Sample-File-to-Folder.kmmacros](Sample-File-to-Folder.kmmacros)) and adjust the Folder name & script path as the comments in the macro instruct you. 
 
 #Known Limitations:
 
